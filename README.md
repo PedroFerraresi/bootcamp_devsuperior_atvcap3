@@ -18,6 +18,8 @@ Para utilizar a aplicação, basta clicar no botão `Começar` na página princi
 
 Na página de buca, basta inserir no campo o usuário do Github escolhido e clicar no botão `Encontrar`
 
+Outra forma de testar a aplicação é utilizar diretamente pelo link: [atv-cap3](https://devsuperior-atvcap3.netlify.app/)
+
 # Imagem da Aplicação
 
 ![img](https://user-images.githubusercontent.com/8821413/116828972-668eec80-ab78-11eb-9507-9065d685beaf.png)
