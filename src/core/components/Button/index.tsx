@@ -1,8 +1,12 @@
 import react from 'react';
 import './styles.scss';
 
-const Button = () => (
-  <input type="text" value="Botão"/>
+type Props = {
+  text: string;
+}
+
+const Button = ({ text }: Props) => (
+  <button className="btn">{text}</button>
 );
 
 export default Button;
