@@ -1,46 +1,21 @@
-# Getting Started with Create React App
+# Github User Research
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esta aplicação tem como enfoque pesquisar usuários da plataforma Github.
 
-## Available Scripts
+Esta aplicação desenvolvida como atividade do capítulo 3 do Bootcamp DevSuperior e tem como objetivo exercitar a criação de um formulário simples utilizando ReactJS e a utilização de APIs públicas.
 
-In the project directory, you can run:
+# Instalação
 
-### `yarn start`
+Para executar esse projeto é necessário ter o [Git](https://git-scm.com/) e o [NodeJS](https://nodejs.org/en/) instalados na máquina.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Com ambas as ferramentas instaladas, clone o projeto em um diretório da sua escolha e, após o download completo, navegue para dentro do diretório recém criado.
+Dentro do diretório, utilize o comando `yarn install` para instalar as dependencias. 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Com as dependências instaladas utilize o comando `yarn start` para subir o servidor de desenvolvimento no seguinte endereço: [http://localhost:3000](http://localhost:3000)
 
-### `yarn test`
+# Utilização
+Para utilizar a aplicação, basta clicar no botão `Começar` na página principal.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Na página de buca, basta inserir no campo o usuário do Github escolhido e clicar no botão `Encontrar`
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Imagem da Aplicação

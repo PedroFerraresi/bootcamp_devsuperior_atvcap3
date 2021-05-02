@@ -41,8 +41,6 @@ const Search = () => {
 
   const handleOnSubmit = (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
-
-    console.log(formData.user);
     
     setRequestMade(true);
 

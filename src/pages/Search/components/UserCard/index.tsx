@@ -1,4 +1,3 @@
-import React from 'react';
 import { GitHubUser } from 'core/types/GitHub';
 import Button from 'core/components/Button';
 import './styles.scss';
