@@ -1,0 +1,125 @@
+.user-card-container {
+    padding-top: 23px;
+    padding-left: 30px;
+
+    display: flex;
+}
+
+.image-container {
+    margin-right: 45px;
+
+    img {
+        height: 284px;
+        width: 280px;
+
+        margin-bottom: 17px;
+    }
+
+  a {
+    text-decoration: none;
+    color: #fff;
+
+    &:hover {
+      text-decoration: none;
+      color: #fff;
+    }
+
+    &:active {
+      font-weight: bold;
+      color: #fff;
+    }
+  }
+}
+
+.top-section {
+    color: #595959;
+    font-size: 12px;
+    line-height: 20px;
+    
+    display: flex;
+
+    div {
+        background-color: #FFFFFF;
+        
+        border: 1px solid #D9D9D9;
+        box-sizing: border-box;
+        border-radius: 5px;
+
+        margin-right: 8px;
+
+        display: flex;
+
+        justify-content: center;
+    }
+
+    .pubblic-repos {
+        width: 163px;
+        height: 22px;
+    }
+
+    .followers {
+        width: 118px;
+        height: 22px;
+    }
+
+    .following{
+        width: 105px;
+        height: 22px;
+    }
+}
+
+.main-section {
+    margin-top: 12px;
+
+    padding: 10px 18px 18px 15px;
+
+    height: 250px;
+    width: auto;
+
+    background: #FFFFFF;
+
+    border: 1px solid #D9D9D9;
+    box-sizing: border-box;
+    border-radius: 6px;
+
+    h1 {
+        font-size: 20px;
+        line-height: 28px;
+        color: #1890FF;
+
+        margin-bottom: 15px;
+    }
+
+    .main-section-content-container {
+        height: 40px;
+        width: 839px;
+
+        background-color: #FFFFFF;
+        
+        border: 1px solid #D9D9D9;
+        box-sizing: border-box;
+        border-radius: 4px;
+
+        margin-bottom: 5px;
+        padding-left: 10px;
+
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 24px;
+        color: #737373;
+
+        h2 {
+            font-weight: bold;
+            font-size: 16px;
+            line-height: 24px;
+    
+            color: #737373;
+
+            margin-right: 5px;
+        }
+    }
+}

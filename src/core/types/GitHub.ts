@@ -1,5 +1,5 @@
 export type GitHubUser = {
-    url: string;
+    html_url: string;
     avatar_url: string;
     public_repos: string;
     followers: string;

@@ -13,7 +13,7 @@ type FormState = {
 
 const Search = () => {
   const [githubResponse, setGithubResponse] = useState<GitHubUser>({
-    url: '',
+    html_url: '',
     avatar_url: '',
     public_repos: '',
     followers: '',
